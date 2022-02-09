@@ -1,0 +1,20 @@
+{
+  "name": "Robin Tokens List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png",
+  "timestamp": "2021-07-25 00:00:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 4,
+      "address": "0xc49672ec57f51F3b5f8B8378A5039aD96f55cAe3",
+      "name": "大搜索",
+      "symbol": "DSS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    }
+  ]
+}
