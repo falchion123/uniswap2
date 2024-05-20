@@ -1,0 +1,12 @@
+{
+    "name": "Fonkpro",
+    "symbol": "Fonkpro",
+    "description": "Fonk pro",
+    "image": "https://raw.githubusercontent.com/mvpbox77/pet-game/main/fonkpro/Fonkpro.jpg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Fonk pro"
+      }
+    ]
+  }
